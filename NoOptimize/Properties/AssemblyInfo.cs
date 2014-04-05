@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("NoOptimize")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Siemens AG")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("NoOptimize")]
-[assembly: AssemblyCopyright("Copyright © Siemens AG 2012")]
+[assembly: AssemblyCopyright("Copyright © Florian Greinacher 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
